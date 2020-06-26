@@ -1,14 +1,14 @@
 class Translation(object):
-    START_TEXT = """👋Hi I'm <b>TR Anydl Bot😊:</b>
+    START_TEXT = """👋Hi.Thanks For Using Me.
     /help to know how to use me
-<b>For using me Contact:@Ultralegends01:</b>
-    <b>👉 I Can Do Multiple Things:</b>
- <b>SUPPORT CHANNEL:@TR_Moviezss:</b>
-     Just Send Me A File Or Direct Link 😘 """
+  TL;DR,Please send a direct(video)link,
+  and I will try to upload on Telegram. 
+ <b>SUPPORT CHANNEL:@TR_Moviezss:</b>"""
+    
     
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = " <b> Contact @Ultralegends01 to Upgrade <b> "
+    UPGRADE_TEXT = " <b> Contact @Ultralegends01 to Upgrade<b> "
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
